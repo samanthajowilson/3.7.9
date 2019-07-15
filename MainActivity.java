@@ -1,0 +1,20 @@
+penRGB(225, 182, 193, 0.50);
+dot(300);
+penRGB(225, 211, 0, 1);
+dot(150);
+turnLeft();
+turnLeft();
+moveForward(50);
+turnTo(180)
+penColor("black");
+penWidth(15);
+penDown();
+turnLeft(90);
+arcRight(60, 100);
+turnRight(180);
+arcLeft(90, 100);
+penUp();
+moveTo(120, 175);
+dot(20);
+moveTo(200, 175);
+dot(20);
